@@ -31,3 +31,13 @@ li a{
     font-weight: bold;
     margin-inline-end: 25px;
 }
+img{
+    height: 50vh;
+    width: 50vh;
+    margin-top: 30px;
+    border-radius: 5px;
+    box-shadow:2px 2px 2px indigo;
+}
+.dtl{
+    padding-inline-end: 14px;
+}
